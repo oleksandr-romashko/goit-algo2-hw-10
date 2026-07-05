@@ -37,7 +37,7 @@ Implement a program for building a university class schedule using a greedy algo
 | Name | Age | Email | Subjects |
 |---|---|---|---|
 | Oleksandr Ivanenko | 45 | o.ivanenko@example.com | Mathematics, Physics |
-| Maria Petrenko | 38 | m.petrenko@example.com | Chemistry |
+| Maria Petrenko | 35 | m.petrenko@example.com | Chemistry |
 | Serhii Kovalenko | 50 | s.kovalenko@example.com | Computer Science, Mathematics |
 | Natalia Shevchenko | 29 | n.shevchenko@example.com | Biology, Chemistry |
 | Dmytro Bondarenko | 35 | d.bondarenko@example.com | Physics, Computer Science |
